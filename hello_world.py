@@ -12,8 +12,4 @@ def solve(N,M):
             c += 1
     return c
 
-
-    
-
-
 print(solve(1,7))
